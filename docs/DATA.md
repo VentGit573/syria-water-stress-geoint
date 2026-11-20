@@ -7,7 +7,7 @@ What is stored where, what each file contains, and the terms of the source data.
 | Tier | Location | Contents |
 | --- | --- | --- |
 | Code and small tables | This GitHub repository | Scripts, district-level CSVs, small figures |
-| Large derived rasters | Zenodo 10.5281/zenodo.24383827 | GeoTIFF exports from the GEE scripts |
+| Large derived rasters | Zenodo [10.5281/zenodo.24383827](https://doi.org/10.5281/zenodo.24383828) | GeoTIFF exports from the GEE scripts |
 | Intermediate GEE layers | Author's Earth Engine project assets | Reused masks and composites (not public) |
 | Web maps | ArcGIS Online (USC organization) | Tile layers for swipe maps and storymaps (display only, not an archive) |
 | Working copy | Author's local drive | Everything during analysis |
