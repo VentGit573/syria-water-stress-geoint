@@ -1,5 +1,5 @@
 # Water Stress, Fragile Institutions, and Unrest in Syria (2000–2012)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24383382.svg)](https://doi.org/10.5281/zenodo.24383382)
 Geospatial and socio-economic analysis of Syria's 2006–2010 drought, the state's institutional response, internal migration, and the 2011 uprising. The repository holds the Google Earth Engine (GEE) scripts, the Python scoring script for the strain/indicator matrix, and the small derived tables behind the analysis.
 
 **Author:** Sean Ventura, MS Human Security and Geospatial Intelligence, USC Spatial Sciences Institute
