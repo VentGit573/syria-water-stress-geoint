@@ -1,0 +1,60 @@
+l2_en,adm1,adm2,pop2004,protest_by_apr11,onset_days,events_2011,ch_towndays,towns_active,st_events,st_harsh_sh,first_harsh_days,armed_onset_days,ally_events,onset_censored,ev_per100k
+A'zaz,Aleppo,A'zaz,244690.0,0,101.0,4,16,5,22,0.45,170.0,364.0,6,False,1.63
+Abu Kamal,Dayr_Az_Zor,Abu_Kamal,265142.0,1,38.0,12,20,1,14,0.64,91.0,434.0,2,False,4.53
+Afrin,Aleppo,Afrin,166876.0,0,410.0,0,2,1,2,0.0,,410.0,2,False,0.0
+Ain Al Arab,Aleppo,Ain_Al_Arab,187048.0,0,59.0,2,2,1,1,0.0,,,1,False,1.07
+Al Bab,Aleppo,Al_Bab,288005.0,0,405.0,0,5,4,4,0.0,,405.0,3,False,0.0
+Al Ma'ra,Idleb,Al_Ma'ra,369203.0,1,38.0,55,100,19,96,0.59,66.0,216.0,0,False,14.9
+Al Makhrim,Homs,Al_Maghrim,51793.0,0,402.0,0,2,2,0,,,402.0,4,False,0.0
+Al Mayadin,Dayr_Az_Zor,Al_Mayadin,247171.0,1,38.0,12,23,6,22,0.68,98.0,279.0,3,False,4.85
+Al Qutayfah,Damascus,Al_Qutayfah,118405.0,0,506.0,0,0,0,1,1.0,364.0,,2,True,0.0
+Al- Hasakeh,Hassakeh,Hassakeh,390653.0,1,38.0,7,8,1,1,0.0,,,24,False,1.79
+Al- Malikeyyeh,Hassakeh,Al_Malika,170413.0,0,80.0,3,3,1,3,1.0,498.0,,2,False,1.76
+Al- Qardaha,Lattakia,Al_Qardaha,68003.0,0,506.0,0,0,0,1,1.0,58.0,,1,True,0.0
+Al-Haffa,Lattakia,Al_Hafa,75343.0,1,31.0,1,9,2,12,0.25,460.0,437.0,1,False,1.33
+Al-Qusayr,Homs,Al_Quasir,103839.0,0,94.0,21,52,8,70,0.59,101.0,216.0,3,False,20.22
+An Nabk,Damascus,An_Nabk,80001.0,0,304.0,0,1,1,0,,,,0,False,0.0
+Ar-Raqqa,Raqqa,Raqqa,449643.0,1,10.0,6,10,1,3,0.67,140.0,368.0,14,False,1.33
+Ar-Rastan,Homs,Ar_Rastan,123864.0,1,33.0,34,57,4,82,0.79,33.0,198.0,1,False,27.45
+Ariha,Idleb,Ariha,174852.0,0,80.0,21,61,21,87,0.68,90.0,203.0,4,False,12.01
+As- Salamiyeh,Hama,As_Salamiyeh,183356.0,1,45.0,6,9,4,12,0.75,49.0,364.0,6,False,3.27
+As- Sanamayn,Dara,As_Sanamayn,167394.0,1,6.0,16,26,6,25,0.52,10.0,212.0,0,False,9.56
+As- Suqaylabiyah,Hama,Al_Sqalbieh,210404.0,0,171.0,11,29,12,36,0.69,180.0,200.0,3,False,5.23
+As-Safira,Aleppo,As_Safira,171782.0,0,384.0,0,3,2,2,0.0,,384.0,1,False,0.0
+As-Sweida,As_Suweida,As_Suwayda,180105.0,1,33.0,3,3,1,2,0.5,127.0,,28,False,1.67
+At Tall,Damascus,At_Tall,115725.0,1,10.0,8,14,2,8,0.38,217.0,217.0,3,False,6.91
+Ath- Thawrah,Raqqa,Tabqat,142926.0,0,59.0,1,1,1,0,,,,0,False,0.7
+Az- Zabdani,Damascus,Az_Zabdani,104235.0,1,10.0,18,26,2,25,0.76,66.0,299.0,1,False,17.27
+Banyas,Tartous,Banyas,178029.0,1,3.0,25,26,3,17,0.71,26.0,260.0,15,False,14.04
+Damascus,City_Damascus,City_Damascus,1552161.0,1,-41.0,55,101,2,77,0.58,59.0,246.0,94,False,3.54
+Dar'a,Dara,Dara,428681.0,1,3.0,76,135,21,126,0.63,3.0,208.0,8,False,17.73
+Darayya,Damascus,Darayya,260961.0,1,6.0,27,40,4,35,0.69,10.0,388.0,6,False,10.35
+Deir-ez-Zor,Dayr_Az_Zor,Dayr_Az_Zor,491143.0,1,10.0,41,78,5,77,0.6,80.0,240.0,25,False,8.35
+Dreikish,Tartous,Dreikisch,60978.0,0,506.0,0,0,0,0,,,,6,True,0.0
+Duma,Damascus,Duma,425848.0,1,10.0,50,95,8,111,0.77,17.0,206.0,6,False,11.74
+Hama,Hama,Hama,634221.0,1,10.0,53,101,9,99,0.76,52.0,202.0,14,False,8.36
+Harim,Idleb,Harim,174997.0,0,94.0,2,18,7,16,0.38,249.0,271.0,2,False,1.14
+Homs,Homs,Homs,1021759.0,1,3.0,126,198,13,251,0.82,17.0,196.0,49,False,12.33
+Idleb,Idleb,Idleb,384467.0,1,31.0,61,109,16,82,0.71,33.0,212.0,8,False,15.87
+Izra',Dara,Izra',246049.0,1,6.0,27,52,10,60,0.77,38.0,217.0,1,False,10.97
+Jablah,Lattakia,Jablah,178512.0,1,31.0,11,11,1,5,0.6,41.0,,10,False,6.16
+Jarablus,Aleppo,Jarablus,55986.0,0,361.0,0,4,2,4,0.25,361.0,488.0,1,False,0.0
+Jebel Saman,Aleppo,Jebel_Saman,2463369.0,1,29.0,13,68,9,64,0.64,49.0,332.0,51,False,0.53
+Jisr-Ash- Shugur,Idleb,Al_Jisr_Ash_Shu,146123.0,1,34.0,12,38,15,44,0.5,76.0,201.0,2,False,8.21
+Lattakia,Lattakia,Lattakia,522723.0,1,10.0,35,41,3,21,0.57,10.0,410.0,30,False,6.7
+Masyaf,Hama,Masyaf,166887.0,0,101.0,2,4,3,2,0.5,101.0,260.0,3,False,1.2
+Menbij,Aleppo,Menbij,372735.0,0,506.0,0,0,0,0,,,,4,True,0.0
+Muhradah,Hama,Muhradah,142758.0,0,160.0,8,17,7,32,0.88,147.0,199.0,5,False,5.6
+Qatana,Damascus,Qatana,206955.0,0,59.0,19,25,6,10,0.7,73.0,234.0,9,False,9.18
+Quamishli,Hassakeh,Quamishli,369125.0,1,17.0,33,34,3,6,0.5,206.0,,10,False,8.94
+Ras Al Ain,Hassakeh,Ras_Al_Ain,125025.0,1,31.0,15,15,2,0,,,,7,False,12.0
+Rural Damascus,Damascus,Center,899590.0,1,31.0,46,75,17,89,0.8,45.0,220.0,5,False,5.11
+Safita,Tartous,Safita,129352.0,0,506.0,0,0,0,1,1.0,488.0,,5,True,0.0
+Salkhad,As_Suweida,Salkhad,60375.0,0,506.0,0,0,0,0,,,,3,True,0.0
+Shahba,As_Suweida,Shahba,72264.0,0,506.0,0,0,0,0,,,,6,True,0.0
+Sheikh Badr,Tartous,Sheikh Badr,50941.0,0,506.0,0,0,0,0,,,,4,True,0.0
+Tadmor,Homs,Tadmor,73950.0,0,142.0,3,4,1,3,0.67,142.0,326.0,1,False,4.06
+Tall Kalakh,Homs,Tall_Kalakh,127756.0,1,24.0,7,18,5,16,0.62,43.0,430.0,4,False,5.48
+Tartous,Tartous,Tartous,283571.0,1,31.0,3,4,1,1,1.0,98.0,409.0,49,False,1.06
+Tell Abiad,Raqqa,Tell_Abiad,107887.0,0,506.0,0,0,0,0,,,,1,True,0.0
+Yabroud,Damascus,Yabrud,48245.0,0,410.0,0,1,1,3,1.0,356.0,410.0,0,False,0.0

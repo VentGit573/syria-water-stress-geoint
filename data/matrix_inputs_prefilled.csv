@@ -1,0 +1,69 @@
+adm1,adm2,state_share,diesel_exp,relief_cov,restrict,in_migr,gov_emp,water_net,ag_work,unemp,protest_by_apr11,onset_days,events_2011,pop2004,sh_kurdish,sh_alawi,sh_sunnitr,sh_sunnifam,sh_othermin,notes
+Al_Qunaytirah,Al_Fiq,,,,,,,,,,,,,,,,,,,no census match (GAUL district not in OCHA list)
+Al_Qunaytirah,Al_Qunaytirah,,,,,,,,,,,,,,,,,,,no census match (GAUL district not in OCHA list)
+Aleppo,A'zaz,,,,,,22.8,83.6,18.6,9.9,0,101.0,4,244690.0,0.014,0.0,0.0,0.843,0.142,outcomes from Mazur Syrian Uprising Event Database
+Aleppo,Afrin,,,,,,13.7,61.3,43.3,8.3,0,410.0,0,166876.0,0.902,0.012,0.005,0.082,0.0,outcomes from Mazur Syrian Uprising Event Database
+Aleppo,Ain_Al_Arab,,,,,,6.2,49.3,53.1,9.6,0,59.0,2,187048.0,0.485,0.0,0.515,0.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Aleppo,Al_Bab,,,,,,13.7,63.0,34.6,7.1,0,405.0,0,288005.0,0.03,0.0,0.591,0.354,0.025,outcomes from Mazur Syrian Uprising Event Database
+Aleppo,As_Safira,,,,,,13.1,56.1,46.3,5.9,0,384.0,0,171782.0,0.141,0.0,0.845,0.0,0.014,outcomes from Mazur Syrian Uprising Event Database
+Aleppo,Jarablus,,,,,,15.0,49.0,38.3,12.2,0,361.0,0,55986.0,0.0,0.0,0.99,0.0,0.01,outcomes from Mazur Syrian Uprising Event Database
+Aleppo,Jebel_Saman,,,,,,21.5,94.1,4.7,7.6,1,29.0,13,2463369.0,0.0,0.0,0.046,0.954,0.0,outcomes from Mazur Syrian Uprising Event Database
+Aleppo,Menbij,,,,,,10.5,55.5,24.9,10.5,0,506.0,0,372735.0,0.002,0.0,0.995,0.0,0.003,outcomes from Mazur Syrian Uprising Event Database
+As_Suweida,As_Suwayda,,,,,,43.0,94.6,10.4,13.0,1,33.0,3,180105.0,0.0,0.0,0.001,0.0,0.999,outcomes from Mazur Syrian Uprising Event Database
+As_Suweida,Salkhad,,,,,,43.5,96.5,12.7,20.3,0,506.0,0,60375.0,0.0,0.0,0.0,0.034,0.966,outcomes from Mazur Syrian Uprising Event Database
+As_Suweida,Shahba,,,,,,36.0,95.4,10.4,16.2,0,506.0,0,72264.0,0.0,0.0,0.032,0.0,0.968,outcomes from Mazur Syrian Uprising Event Database
+City_Damascus,City_Damascus,,,,,,33.9,94.8,0.8,6.2,1,-41.0,55,1552161.0,0.0,0.0,0.0,1.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Damascus,Al_Ghutta,,,,,,,,,,,,,,,,,,,no census match (GAUL district not in OCHA list)
+Damascus,Al_Qutayfah,,,,,,54.1,99.1,5.8,11.9,0,506.0,0,118405.0,0.0,0.0,0.0,0.977,0.023,outcomes from Mazur Syrian Uprising Event Database
+Damascus,An_Nabk,,,,,,22.8,95.4,12.0,11.4,0,304.0,0,80001.0,0.0,0.0,0.0,1.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Damascus,At_Tall,,,,,,26.3,96.1,6.1,8.6,1,10.0,8,115725.0,0.0,0.0,0.0,0.919,0.081,outcomes from Mazur Syrian Uprising Event Database
+Damascus,Az_Zabdani,,,,,,38.5,95.4,20.1,10.0,1,10.0,18,104235.0,0.0,0.0,0.0,0.98,0.02,outcomes from Mazur Syrian Uprising Event Database
+Damascus,Center,,,,,,28.4,94.1,5.4,7.8,1,31.0,46,899590.0,0.0,0.0,0.0,0.711,0.289,outcomes from Mazur Syrian Uprising Event Database
+Damascus,Darayya,,,,,,37.7,95.5,3.4,8.5,1,6.0,27,260961.0,0.0,0.0,0.0,0.829,0.171,outcomes from Mazur Syrian Uprising Event Database
+Damascus,Darayya/Center,,,,,,,,,,,,,,,,,,,no census match (GAUL district not in OCHA list)
+Damascus,Duma,,,,,,34.8,93.8,11.6,9.2,1,10.0,50,425848.0,0.0,0.023,0.0,0.952,0.025,date approximate; outcomes from Mazur Syrian Uprising Event Database
+Damascus,Qatana,,,,,,47.9,89.7,13.5,11.3,0,59.0,19,206955.0,0.0,0.0,0.002,0.839,0.159,outcomes from Mazur Syrian Uprising Event Database
+Damascus,Yabrud,,,,,,23.4,97.1,17.0,8.4,0,410.0,0,48245.0,0.0,0.0,0.0,1.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Dara,As_Sanamayn,,,,,,31.0,97.1,16.1,10.8,1,6.0,16,167394.0,0.0,0.0,0.0,0.991,0.009,outcomes from Mazur Syrian Uprising Event Database
+Dara,Dara,,,,,,27.6,98.0,17.2,10.3,1,3.0,76,428681.0,0.0,0.0,0.0,1.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Dara,Izra',,,,,,27.9,98.2,13.1,8.7,1,6.0,27,246049.0,0.0,0.0,0.0,1.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Dayr_Az_Zor,Abu_Kamal,,,,,,6.4,71.8,60.0,18.2,1,38.0,12,265142.0,0.0,0.0,1.0,0.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Dayr_Az_Zor,Al_Mayadin,,,,,,16.3,94.0,49.4,12.5,1,38.0,12,247171.0,0.0,0.0,1.0,0.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Dayr_Az_Zor,Dayr_Az_Zor,,,,,,37.5,88.4,35.6,13.3,1,10.0,41,491143.0,0.0,0.0,0.987,0.0,0.013,outcomes from Mazur Syrian Uprising Event Database
+Hama,Al_Ghab,,,,,,,,,,,,,,,,,,,no census match (GAUL district not in OCHA list)
+Hama,Al_Sqalbieh,,,,,,30.6,91.6,47.2,23.0,0,171.0,11,210404.0,0.0,0.423,0.042,0.469,0.066,outcomes from Mazur Syrian Uprising Event Database
+Hama,As_Salamiyeh,,,,,,37.2,66.3,28.2,12.1,1,45.0,6,183356.0,0.0,0.118,0.103,0.12,0.659,outcomes from Mazur Syrian Uprising Event Database
+Hama,Hama,,,,,,30.4,92.2,16.2,8.2,1,10.0,53,634221.0,0.0,0.083,0.001,0.91,0.006,outcomes from Mazur Syrian Uprising Event Database
+Hama,Masyaf,,,,,,60.2,95.4,16.1,23.1,0,101.0,2,166887.0,0.0,0.961,0.0,0.0,0.039,outcomes from Mazur Syrian Uprising Event Database
+Hama,Mesiaf,,,,,,,,,,,,,,,,,,,no census match (GAUL district not in OCHA list)
+Hama,Muhradah,,,,,,20.9,97.2,46.5,10.6,0,160.0,8,142758.0,0.0,0.004,0.0,0.873,0.123,outcomes from Mazur Syrian Uprising Event Database
+Hama,Name Unknown,,,,,,,,,,,,,,,,,,,no census match (GAUL district not in OCHA list)
+Hassakeh,Al_Malika,,,,1,,35.8,70.6,32.2,25.9,0,80.0,3,170413.0,0.438,0.0,0.387,0.0,0.175,Decree 49 border zone (all Hasakah); outcomes from Mazur Syrian Uprising Event Database
+Hassakeh,Hassakeh,,,,1,,36.3,64.7,34.0,22.8,1,38.0,7,390653.0,0.016,0.0,0.956,0.0,0.028,Decree 49 border zone (all Hasakah); outcomes from Mazur Syrian Uprising Event Database
+Hassakeh,Name Unknown,,,,1,,,,,,,,,,,,,,,Decree 49 border zone (all Hasakah); no census match (GAUL district not in OCHA list)
+Hassakeh,Quamishli,,,,1,,32.6,84.5,23.0,26.5,1,17.0,33,369125.0,0.79,0.0,0.201,0.0,0.009,Decree 49 border zone (all Hasakah); outcomes from Mazur Syrian Uprising Event Database
+Hassakeh,Ras_Al_Ain,,,,1,,14.5,64.7,65.1,22.0,1,31.0,15,125025.0,0.749,0.0,0.251,0.0,0.0,Decree 49 border zone (all Hasakah); outcomes from Mazur Syrian Uprising Event Database
+Homs,Al_Maghrim,,,,,,53.1,81.1,30.1,24.8,0,402.0,0,51793.0,0.0,0.553,0.307,0.032,0.108,outcomes from Mazur Syrian Uprising Event Database
+Homs,Al_Quasir,,,,,,30.2,75.8,35.3,16.4,0,94.0,21,103839.0,0.0,0.064,0.014,0.619,0.303,outcomes from Mazur Syrian Uprising Event Database
+Homs,Ar_Rastan,,,,,,28.9,86.9,25.1,16.4,1,33.0,34,123864.0,0.0,0.0,0.0,0.976,0.024,outcomes from Mazur Syrian Uprising Event Database
+Homs,Homs,,,,,,42.1,93.4,7.2,13.6,1,3.0,126,1021759.0,0.0,0.112,0.003,0.817,0.068,outcomes from Mazur Syrian Uprising Event Database
+Homs,Tadmor,,,,,,34.8,86.0,22.7,19.3,0,142.0,3,73950.0,0.0,0.0,0.296,0.704,0.0,outcomes from Mazur Syrian Uprising Event Database
+Homs,Tall_Kalakh,,,,,,28.0,88.2,18.2,16.6,1,24.0,7,127756.0,0.0,0.468,0.0,0.185,0.348,outcomes from Mazur Syrian Uprising Event Database
+Idleb,Al_Jisr_Ash_Shu,,,,,,20.6,89.1,31.7,8.0,1,34.0,12,146123.0,0.0,0.009,0.015,0.951,0.025,outcomes from Mazur Syrian Uprising Event Database
+Idleb,Al_Ma'ra,,,,,,23.2,75.7,21.4,14.0,1,38.0,55,369203.0,0.0,0.006,0.151,0.842,0.0,outcomes from Mazur Syrian Uprising Event Database
+Idleb,Ariha,,,,,,30.3,86.1,22.5,19.8,0,80.0,21,174852.0,0.0,0.0,0.0,1.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Idleb,Harim,,,,,,26.9,91.3,34.4,12.0,0,94.0,2,174997.0,0.0,0.0,0.0,0.954,0.046,outcomes from Mazur Syrian Uprising Event Database
+Idleb,Idleb,,,,,,25.4,92.5,19.0,11.4,1,31.0,61,384467.0,0.0,0.0,0.0,0.952,0.048,outcomes from Mazur Syrian Uprising Event Database
+Lattakia,Al_Hafa,,,,,,55.4,83.1,23.0,24.8,1,31.0,1,75343.0,0.0,0.591,0.0,0.409,0.0,outcomes from Mazur Syrian Uprising Event Database
+Lattakia,Al_Qardaha,,,,,,80.4,82.0,6.9,35.6,0,506.0,0,68003.0,0.0,1.0,0.0,0.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Lattakia,Jablah,,,,,,67.4,83.8,12.0,24.2,1,31.0,11,178512.0,0.0,0.698,0.0,0.302,0.0,outcomes from Mazur Syrian Uprising Event Database
+Lattakia,Lattakia,,,,,,55.3,93.0,5.9,18.5,1,10.0,35,522723.0,0.0,0.214,0.0,0.734,0.052,outcomes from Mazur Syrian Uprising Event Database
+Raqqa,Name Unknown,,,,,,,,,,,,,,,,,,,no census match (GAUL district not in OCHA list)
+Raqqa,Raqqa,,,,,,25.7,95.3,34.0,9.7,1,10.0,6,449643.0,0.0,0.0,1.0,0.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Raqqa,Tabqat,,,,,,33.3,92.1,38.4,17.3,0,59.0,1,142926.0,0.0,0.0,0.514,0.0,0.486,outcomes from Mazur Syrian Uprising Event Database
+Raqqa,Tell_Abiad,,,,,,12.6,67.8,63.4,14.6,0,506.0,0,107887.0,0.097,0.0,0.903,0.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Tartous,Banyas,,,,,,53.9,83.5,23.1,21.1,1,3.0,25,178029.0,0.0,0.624,0.0,0.313,0.063,outcomes from Mazur Syrian Uprising Event Database
+Tartous,Dreikisch,,,,,,56.5,91.4,10.7,24.3,0,506.0,0,60978.0,0.0,1.0,0.0,0.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Tartous,Safita,,,,,,51.9,96.2,14.8,20.9,0,506.0,0,129352.0,0.0,0.929,0.0,0.0,0.071,outcomes from Mazur Syrian Uprising Event Database
+Tartous,Sheikh Badr,,,,,,71.9,90.2,17.7,20.4,0,506.0,0,50941.0,0.0,1.0,0.0,0.0,0.0,outcomes from Mazur Syrian Uprising Event Database
+Tartous,Tartous,,,,,,44.9,94.0,22.7,16.5,1,31.0,3,283571.0,0.0,0.927,0.0,0.03,0.043,outcomes from Mazur Syrian Uprising Event Database

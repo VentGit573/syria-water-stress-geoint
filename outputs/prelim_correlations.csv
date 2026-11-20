@@ -1,0 +1,13 @@
+indicator,n,rho_early_onset,p,rho_events_per100k,p2,AUC_protest_by_Apr11,p3,median_protest,median_none
+Spring greenness change (%),47,-0.14,0.363,0.07,0.656,0.44,0.512,-3.8,-1.1
+Summer (irrigated) greenness change (%),47,0.05,0.753,-0.14,0.345,0.52,0.788,-8.2,-7.5
+Rainfall change (%),59,0.12,0.362,0.24,0.065,0.52,0.791,-22.0,-23.3
+% workers in agriculture (2004),59,-0.22,0.088,-0.04,0.777,0.38,0.123,19.0,23.8
+Unemployment 2004,59,-0.23,0.077,-0.04,0.735,0.42,0.268,12.5,15.4
+% workers in govt sector (2004),59,0.06,0.664,0.01,0.916,0.53,0.716,31.0,30.4
+% housing with safe water (2004),59,0.25,0.052,0.12,0.349,0.6,0.179,93.0,87.9
+Illiteracy 2004,59,-0.23,0.079,-0.14,0.299,0.4,0.202,15.3,19.6
+Kurdish-majority town share,59,-0.23,0.085,-0.22,0.088,0.41,0.083,0.0,0.0
+Alawite-majority town share,59,-0.1,0.472,-0.06,0.65,0.49,0.909,0.0,0.0
+Sunni tribal-majority share,59,-0.17,0.205,-0.19,0.143,0.45,0.504,0.0,0.0
+Population 2004,59,0.61,0.0,0.39,0.002,0.82,0.0,265142.0,136055.0
