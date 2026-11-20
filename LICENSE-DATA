@@ -1,0 +1,24 @@
+Data products, figures and documentation in this repository
+(the contents of data/, outputs/ and docs/) and the associated Zenodo
+raster archive are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+Copyright (c) 2026 Sean Ventura
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, provide a link to the
+license, and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:           https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution:
+  Ventura, S. (2026). Water Stress, Fragile Institutions, and Unrest in
+  Syria (2000-2012): derived data products. CC BY 4.0.
+
+This license covers only material created by the author. Third-party source
+data used to derive these products remain under their original terms; see
+docs/DATA.md.
+
+Code in gee/ and python/ is licensed separately under the MIT License
+(see LICENSE).

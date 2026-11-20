@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software or its derived data, please cite it as below."
+title: "Water Stress, Fragile Institutions, and Unrest in Syria (2000-2012): Earth Engine scripts and indicator matrix"
+type: software
+authors:
+  - family-names: Ventura
+    given-names: Sean
+    affiliation: "USC Spatial Sciences Institute"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/VentGit573/syria-water-stress-geoint"
+keywords:
+  - Syria
+  - drought
+  - Google Earth Engine
+  - remote sensing
+  - human security
+  - GEOINT
+  - indicator matrix
+abstract: >-
+  Google Earth Engine and Python scripts, with small derived district-level
+  tables, for analysing Syria's 2006-2010 drought, crop and water stress,
+  night-light and settlement change, and their relationship to the 2011
+  uprising through a weighted strain/indicator matrix. Scripts drafted with
+  Claude Opus 5.5 (Anthropic) and run and adjusted by the author.
